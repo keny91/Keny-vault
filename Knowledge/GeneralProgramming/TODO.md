@@ -1,0 +1,1 @@
+Conocimiento de alguna herramienta o framework de pruebas automáticas (Selenium WebDriver JMeter ...)
