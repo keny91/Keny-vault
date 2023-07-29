@@ -15,7 +15,7 @@ Compilers:
 CMake, gnome
 
 Code Control:
-Sonarlint, Standards
+Sonarlint, Standards like PEP8
 
 Dependency control:
 Maven, nexus_db, spring-boot
