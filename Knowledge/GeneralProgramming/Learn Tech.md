@@ -24,4 +24,4 @@ Microservices:
 Docker vs Kubernetes
 Amazon AWS
 
-[[Concepts#2]]
+[[Concept_list#2]]
