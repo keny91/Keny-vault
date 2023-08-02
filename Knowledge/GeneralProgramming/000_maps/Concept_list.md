@@ -26,5 +26,11 @@ Leverage Containerization:
 [[Cloud platforms]]
 	Cloud platforms provide a range of services and resources that enable developers to build, deploy, and manage applications in the cloud. Here are some of the major cloud platforms that you should be familiar with as a software developer:
 
+[[Brokers]]
+
+[[Worker threads and concurrency]]
+
 
 [[Working Methodologies]]
+
+
