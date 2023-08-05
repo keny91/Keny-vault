@@ -1,3 +1,4 @@
+#connection 
 In the context of computer networking and communication, there are primarily three types of communication: simplex, half-duplex, and full-duplex. These terms describe how data is exchanged between communicating parties. Here's an overview of each type:
 
 1.  **Simplex Communication:**

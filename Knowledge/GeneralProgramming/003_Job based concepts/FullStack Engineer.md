@@ -8,7 +8,7 @@ A full-stack engineer is a software developer who possesses the skills and exper
     -   Optimize front-end performance to ensure fast loading times and smooth user experiences.
 2.  **Back-End Development:**
     
-    -   Implement server-side logic and functionality using programming languages such as Python, Java, Node.js, or Ruby.
+    -   Implement server-side logic and functionality using programming languages such as Python, Java, (Node.js is not a languaje), or Ruby.
     -   Design and develop APIs (Application Programming Interfaces) to enable communication between the front-end and back-end systems.
     -   Work with databases (SQL or NoSQL) to store and retrieve data for the application.
     -   Handle server-side tasks such as authentication, authorization, and data processing.

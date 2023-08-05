@@ -8,7 +8,7 @@ Transport protocols
 	Webrtc 
 	RTMP
 
-Design patterns, class diagram, sequence diagram, tools for diagrams?
+Design patterns, class diagram, sequence diagram, STATE DIAGRAM, tools for diagrams?
 
 Http-dash
 Kafka
@@ -22,3 +22,5 @@ DBs, Pandas, elastic, ...
 Microservices, docker, kubernetes, swarm, nodes
 Spring boot, project dependencies
 jobs, builders
+
+complete design patterns

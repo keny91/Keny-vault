@@ -1,4 +1,4 @@
-#AUTOMATION
+#AUTOMATION #build #integration
 Bamboo is another popular continuous integration and continuous delivery (CI/CD) tool used in software development. Similar to Jenkins, Bamboo helps automate the build, testing, and deployment processes, enabling teams to deliver software updates more efficiently and with higher quality. Here's an overview of Bamboo and its key features:
 
 **1. Integration with Atlassian Ecosystem:** Bamboo is developed and maintained by Atlassian, the same company behind popular tools like Jira and Confluence. This integration with the Atlassian ecosystem allows for seamless collaboration and communication between development, testing, and project management teams.

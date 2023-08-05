@@ -1,3 +1,4 @@
+#AUTOMATION #build #integration
 Jenkins is a popular open-source automation server that facilitates the continuous integration and continuous delivery (CI/CD) of software projects. It automates the building, testing, and deployment of applications, enabling development teams to deliver software updates more frequently and reliably. Here's an overview of Jenkins and its key features:
 
 **1. Continuous Integration (CI):** Jenkins supports the practice of continuous integration, where developers frequently merge their code changes into a shared repository. Jenkins can automatically trigger build processes whenever new code is pushed, ensuring that code changes are integrated and tested frequently.

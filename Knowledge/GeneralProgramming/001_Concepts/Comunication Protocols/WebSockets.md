@@ -1,3 +1,4 @@
+#connection
 WebSockets are a communication protocol that enables two-way communication between a client (typically a web browser) and a server over a single, long-lived connection. Unlike the traditional request-response model of HTTP, where a client sends a request and the server responds, WebSockets allow both the client and server to send and receive data asynchronously in real-time. This makes WebSockets particularly well-suited for applications that require low-latency and continuous data exchange, such as real-time chat applications, online gaming, and live streaming.
 
 Here's an overview of how WebSockets work:

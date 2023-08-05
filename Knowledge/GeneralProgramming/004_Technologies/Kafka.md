@@ -1,3 +1,4 @@
+#real-time #connection 
 Apache Kafka is an open-source distributed event streaming platform used for building real-time data pipelines and streaming applications. It was originally developed by engineers at LinkedIn and later open-sourced as part of the Apache Software Foundation.
 
 Kafka is designed to handle high-throughput, fault-tolerant, and scalable data streaming. It is widely used in scenarios where there is a need to process and transmit large volumes of data in real-time or near real-time. Here are some key features and concepts of Kafka:

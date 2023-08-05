@@ -1,0 +1,1 @@
+A singleton is a class that can only have a single instance of the application instanciated.
