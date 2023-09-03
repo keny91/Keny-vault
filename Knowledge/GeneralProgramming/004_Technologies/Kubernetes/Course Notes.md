@@ -75,3 +75,22 @@ How would you like to deploy:
 - Upgrade docker instances (1 after the other, ROLLING UPDATE)
 - Rollback changes if desired.
 - Apply changes to the system when demanded (click update)
+
+#### Deployment Rollouts
+
+When first create a deployment it creates a ROLLOUT. A Rollout creates a deployment REVISION.
+A Revision allows us to go back to a previous state of the deployment.
+
+There are 2 types of deployment strategies:
+
+- **RECREATE STRATEGY:** 
+	Destroy OLD instances and create NEW ones. This makes the service unavailable until the containers are re-originated.
+
+- **ROLLING UPDATE STRATEGY (default):** 
+	We take down an old version and rise a new one before moving to the next one.
+
+#### Updating a deployment.
+
+When updating a deployment a new image is applied to the containers. Kubernetes then will create a new REPLICA-SET in which it will be rising the new containers (the previous replicaset will still be active if Rolling update).
+
+A deployment can be undone by UNDO. This creates an update rollout to the previous rollout in the history. 
