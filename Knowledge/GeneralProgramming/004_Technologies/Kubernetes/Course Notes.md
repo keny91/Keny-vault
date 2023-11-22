@@ -94,3 +94,43 @@ There are 2 types of deployment strategies:
 When updating a deployment a new image is applied to the containers. Kubernetes then will create a new REPLICA-SET in which it will be rising the new containers (the previous replicaset will still be active if Rolling update).
 
 A deployment can be undone by UNDO. This creates an update rollout to the previous rollout in the history. 
+
+
+****
+
+### SERVICES
+
+
+Services come in many variants.
+
+![[ServiceTypes.png]]
+
+#### NodePort
+
+For example. Inside a cluster, each of the nods has its own address and it is addressable while inside the Node.
+To access it from outside the Node, a SERVICE is required to expose the IP through a port for example:
+
+![[k8s_service.png]]
+
+When configuring a service to find particular nodes, the service will be able to find them and link them even if they are part of different nodes.
+
+![[NodePort.png]]
+#### ClusterIP
+
+The service creates a virtual IP inside the server to help set up communication between services (like front and backend servers for example).
+
+![[ClusterIP.png]]
+#### Load Balancer
+
+Regulates the flow of information to distribute it across the PODs in the Node. 
+
+
+
+### WHEN DESIGNING A DEPLOYMENT
+
+Steps:
+1. Deploy PODS of each of the apps.
+2. Enable component connectivity (Create a map of what applications communicate with which and in which direction), Determine USERs, PORTS, 
+3. Create SERVICES (ClusterIP)
+	1. Databases: sql, redis, postgress 
+	2. Create services NodePort (for external apps)

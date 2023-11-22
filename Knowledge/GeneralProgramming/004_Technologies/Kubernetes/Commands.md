@@ -3,8 +3,8 @@
 
 * View active nodes:
 ```
-	kubectl get nodes/pods/replicationcontroller/replicaset/deployments
-
+	kubectl get nodes/pods/replicationcontroller/replicaset/deployments/svc
+	kubect get pods,svc # shows active pods and services
 	kubectl get nodes/pods -o wide (expanded information regarding nodes)
 
 # To see all active components run:
@@ -96,5 +96,15 @@ Undo current rollout:
 
 ```
 kubectl rollout undo deployment/myapp-deployment
+```
+
+
+*********
+### SERVICES
+
+Get service command:
+
+```
+kubectl get svc
 ```
 
