@@ -1,8 +1,8 @@
 
-[[FullStack Engineer]]
+[[Knowledge/GeneralProgramming/003_Job based concepts/FullStack Engineer]]
 
-[[DevOps Engineer]]
+[[Knowledge/GeneralProgramming/003_Job based concepts/DevOps Engineer]]
 
-[[QA Engineer]]
+[[Knowledge/GeneralProgramming/003_Job based concepts/QA Engineer]]
 
-[[R&D Software Engineer]]
+[[Knowledge/GeneralProgramming/003_Job based concepts/R&D Software Engineer]]

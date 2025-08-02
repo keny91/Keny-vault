@@ -103,23 +103,23 @@ A deployment can be undone by UNDO. This creates an update rollout to the previo
 
 Services come in many variants.
 
-![[ServiceTypes.png]]
+![[Knowledge/GeneralProgramming/000_1_Embedded_Data/ServiceTypes.png]]
 
 #### NodePort
 
 For example. Inside a cluster, each of the nods has its own address and it is addressable while inside the Node.
 To access it from outside the Node, a SERVICE is required to expose the IP through a port for example:
 
-![[k8s_service.png]]
+![[Knowledge/GeneralProgramming/000_1_Embedded_Data/k8s_service.png]]
 
 When configuring a service to find particular nodes, the service will be able to find them and link them even if they are part of different nodes.
 
-![[NodePort.png]]
+![[Knowledge/GeneralProgramming/000_1_Embedded_Data/NodePort.png]]
 #### ClusterIP
 
 The service creates a virtual IP inside the server to help set up communication between services (like front and backend servers for example).
 
-![[ClusterIP.png]]
+![[Knowledge/GeneralProgramming/000_1_Embedded_Data/ClusterIP.png]]
 #### Load Balancer
 
 Regulates the flow of information to distribute it across the PODs in the Node. 

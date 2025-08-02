@@ -1,7 +1,7 @@
 
 
 Frameworks to for web apps:
-React, [[Swelte]]
+React, [[Knowledge/GeneralProgramming/Swelte]]
 Rendering webapp:
 Htmlx
 
@@ -24,4 +24,4 @@ Microservices:
 Docker vs Kubernetes
 Amazon AWS
 
-[[Concept_list#2]]
+[[Knowledge/GeneralProgramming/000_0_maps/Concept_list#2]]

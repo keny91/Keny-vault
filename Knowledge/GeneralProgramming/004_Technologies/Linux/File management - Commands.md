@@ -77,7 +77,7 @@ cat sample | grep -v a | sort - r
 **-B n :** Prints searched line and n line before the result.
 **-C n :** Prints searched line and n lines after before the result.
 
-![[Grep 1.png]]
+![[Knowledge/GeneralProgramming/000_1_Embedded_Data/Grep 1.png]]
 
 
 ### sort

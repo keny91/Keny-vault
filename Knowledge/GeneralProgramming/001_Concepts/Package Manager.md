@@ -27,4 +27,4 @@ Examples of Package Managers:
 
 Each package manager has its own commands and syntax, but they all serve the common purpose of simplifying software management. As a developer, mastering package managers relevant to your programming languages and operating systems can significantly improve your development workflow and efficiency.
 
-[[Includying my own packages in the package manager]]
+[[Knowledge/GeneralProgramming/002_Actions/Includying my own packages in the package manager]]

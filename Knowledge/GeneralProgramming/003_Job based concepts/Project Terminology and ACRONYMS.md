@@ -1,1 +1,1 @@
-![[ProjectManagementTerm.png]]
+![[Knowledge/GeneralProgramming/000_1_Embedded_Data/images/ProjectManagementTerm.png]]

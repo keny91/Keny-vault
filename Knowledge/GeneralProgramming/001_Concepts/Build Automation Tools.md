@@ -1,4 +1,4 @@
-Build automation tools, also known as build systems or build tools, are software tools that automate the process of building and compiling software from source code. They streamline the development workflow, making it easier for developers to compile, test, and package their applications consistently and efficiently. Build automation tools are commonly used in software development to handle the complexities of building large projects with multiple source files and dependencies.
+ Build automation tools, also known as build systems or build tools, are software tools that automate the process of building and compiling software from source code. They streamline the development workflow, making it easier for developers to compile, test, and package their applications consistently and efficiently. Build automation tools are commonly used in software development to handle the complexities of building large projects with multiple source files and dependencies.
 
 Here are some key aspects and benefits of build automation tools:
 

@@ -22,7 +22,7 @@ Linux **VmStat** command is used to display statistics of **virtual memory**,
 vmstat
 ```
 
-![[VMSTAT_demo.png]]
+![[Knowledge/GeneralProgramming/000_1_Embedded_Data/images/VMSTAT_demo.png]]
 ### LSOF
 
 The **lsof command** is used in many **Linux/Unix-like** systems to display a list of all the open files and processes. The open files included are **disk files**, **network sockets**, **pipes**, **devices,** and **processes**.
@@ -31,7 +31,7 @@ The **lsof command** is used in many **Linux/Unix-like** systems to display 
 lsof (| less)
 ```
 
-![[LSOF_demo.png]]
+![[Knowledge/GeneralProgramming/000_1_Embedded_Data/LSOF_demo.png]]
 
 ### TCPDUMP
 
@@ -54,23 +54,23 @@ The **netstat** is a command-line tool for monitoring **incoming** and **ou
 netstat -a | more
 ```
 
-![[NETSTAT_demo.png]]
+![[Knowledge/GeneralProgramming/000_1_Embedded_Data/NETSTAT_demo.png]]
 ### HTOP  – Linux Process Monitoring
 
 **htop** is a much advanced interactive and real-time Linux process monitoring tool, which is much similar to Linux **[top command](https://www.tecmint.com/save-top-command-output-to-a-file/ "How to Save Top Command Output to a File")** but it has some rich features like a **user-friendly interface to manage processes**, **shortcut keys**, **vertical and horizontal views of the processes,** and much more.
 
-![[HTOP_demo.png]]
+![[Knowledge/GeneralProgramming/000_1_Embedded_Data/HTOP_demo.png]]
 
 ### IPTraf – Real-Time IP LAN Monitoring
 
 **IPTraf** is an open-source console-based real-time network (**IP LAN**) monitoring utility for **Linux**. It collects a variety of information such as [IP traffic monitor](https://www.tecmint.com/tcpflow-analyze-debug-network-traffic-in-linux/ "TCPflow – Analyze and Debug Network Traffic in Linux") that passes over the network, including TCP flag information, ICMP details, TCP/UDP traffic breakdowns, TCP connection packets, and byte counts.
 
 
-![[IPTRAF_demo.png]]
+![[Knowledge/GeneralProgramming/000_1_Embedded_Data/IPTRAF_demo.png]]
 
 
 ### Monitorix – System and Network Monitoring
 
 **Monitorix** is a free lightweight utility that is designed to run and monitor system and network resources as many as possible in **Linux/Unix** servers.
 
-![[MONITORIX_demo.png]]
+![[Knowledge/GeneralProgramming/000_1_Embedded_Data/MONITORIX_demo.png]]

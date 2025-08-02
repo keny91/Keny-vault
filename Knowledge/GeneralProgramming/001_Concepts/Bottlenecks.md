@@ -26,4 +26,4 @@ Bottlenecks in a system or process refer to points where the flow of work is slo
 Addressing bottlenecks often requires a combination of analysis, problem-solving, and process improvement. Identifying the root causes of bottlenecks and taking proactive measures to eliminate or mitigate them can lead to more efficient workflows, increased productivity, and better overall performance. Techniques such as process optimization, workload balancing, resource allocation, automation, and continuous improvement play crucial roles in overcoming bottlenecks and enhancing the efficiency of a system or process.
 
 Also see:
-[[Resolving bottlenecks]]
+[[Knowledge/GeneralProgramming/002_Actions/Resolving bottlenecks]]
