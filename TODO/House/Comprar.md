@@ -6,3 +6,5 @@
 - shellys
 		- miraflores
 		- mi casa
+		  
+- More SSD (32-64 GB)

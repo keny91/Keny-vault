@@ -26,3 +26,11 @@ Paste this in it:
 sudo nano /usr/local/bin/makepathfile
 
 ```
+
+
+### Macros:
+
+```
+echo "alias ll='ls -la'" >> ~/.bashrc
+source ~/.bashrc
+```
