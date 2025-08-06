@@ -32,3 +32,13 @@ check process sshd with pidfile /run/sshd.pid
   start program = "/bin/systemctl start ssh"
   stop program  = "/bin/systemctl stop ssh"
   if 3 restarts within 5 cycles then exec "/sbin/reboot"
+
+
+
+### Foresync to diagnose intrusions and tampering
+
+(Need for deployed machines and my machines separately)
+
+- Agnostic of OS and Architecture?
+
+	No, most forensic packages and toolkits are **not fully OS-agnostic or architecture-agnostic** — but we can absolutely build a setup that works **for your specific system**, or **universally across common devices**, depending on your needs.

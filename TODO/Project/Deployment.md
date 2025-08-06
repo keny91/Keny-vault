@@ -26,6 +26,8 @@ sudo apt-get install --reinstall libpam0g libpam-modules libpam-modules-bin
 - Duckdns [Docker] Autorefrescar IP externa (Automatizar generar un dominio?)
 - HomeAssistant [Docker]
 - Health check script. Signals (external domian, port 10123). A service will register incidences.
+------
+Can football matches be reestreemed?
 ### Config 
 
 
