@@ -1,7 +1,7 @@
 
 LAST
 
-- Hay que commitear raps1 con cambios que ahora funcionan
+- orangepi 37 tiene el drive enchufado.
 
 - Install ansible offline:
 

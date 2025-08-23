@@ -6,23 +6,23 @@ TEST
 UNISNTALLING 
 MVN, JAVA (use packages)
 
+
+
+JENKINS REQUIRED AN INITIAL "INSTALLATION PASSWORD TO SET UP"
+
 ```
 sudo dpkg -i openjdk-17*.deb
 sudo apt -f install   # to fix dependencies
 ```
-fail java
-openjdk-17-jdk:amd64 depends on openjdk-17-jdk-headless (= 17.0.16+8~us1-0ubuntu1~22.04.1); however:
-  Package openjdk-17-jdk-headless is not installed.
-
-Fail Jenkins:
-dpkg: dependency problems prevent configuration of jenkins:
- jenkins depends on net-tools; however:
-  Package net-tools is not installed.
 
 
 #TODO WHAT IS A GROOVY script
 in the GROOVY script (default is `~/.jenkins`):
 	hudsonRealm.createAccount("admin", "changeme123")
+
+
+THE GROOBY SCRIPT & FOLDER MUST BE IN THE DEFAULT JENKINS HOME (/var/lib/jenkins/). Find a way to determine it otherwise. (At least when installed from package)
+
 
 
 FIRST TIME INSTALL BY HAND. 
@@ -248,4 +248,11 @@ roles/
 ```
 
 
-	
+
+once Jenkins has applied your `init.groovy.d` setup (e.g., created the admin user), you are free — and actually _encouraged_ — to remove those Groovy init scripts.
+
+```
+sudo rm -f /var/lib/jenkins/init.groovy.d/01-create-admin.groovy
+sudo systemctl restart jenkins
+```
+
