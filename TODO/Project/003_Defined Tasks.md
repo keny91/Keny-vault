@@ -1,6 +1,25 @@
 #todo #tasks
 
 
+Miraflores IP 192.168.8.115  (1234 default)
+
+- Probar las tools de libraries. Guardar libs queb tengo
+
+abierto para orangepi 37 - 8082  llhmpinfito.duckdns.org
+- How to export jobs (Git repo)
+- Carry on configuration for future jenkins installation
+	  - Git Cert. 
+	  - Global Vars
+	  - Include Jobs
+	 -  If I update plugins manually? How can I export them to include them on the new package.
+- Update java 17.
+  
+  /tmp/jenkins11462942153442837016.sh: line 56: yq: command not found
+  
+  Package creator:
+  Search
+
+- Generate plugin package
 ### MVP PHASE:
 
 #### FRONT-END

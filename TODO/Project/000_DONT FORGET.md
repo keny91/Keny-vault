@@ -1,7 +1,46 @@
 
+
+
+Jenkins - packag pluggins as "files/jenkins/plugins/jenkins-plugins*.tar.gz"
+
+
+
 LAST
 
-- orangepi 37 tiene el drive enchufado.
+
+
+
+- Bootstrap: 
+	- create user:group
+	- Install ansible
+	- Install docker and k8s
+	- Validate packages have been installed
+
+- Ansible y kubernetes. 
+  Determinar como guarlo las librerias. /cots/Linux/Distro/LIBxxXXX.xx
+	Tools...
+
+
+Instanciated at orchestrator_new.  /home/keny/data/  -> to be moved to a mounted drive (keep a local copy)
+
+- Create storage:
+  /mnt/data
+  |
+  | jenkins
+  |    |   Plugins (Separate or label, orchestrator, agents...)
+  |    |   Jobs
+  |
+  | - PACKAGES 
+  |         |  Orchestrator Installer
+  |         |  AgentInstaller
+  |         |  ...
+  |         |  
+  |     
+  |    | COTS
+  |    |     |    LINUX/UBUNTU22.04/arm64/...
+  |
+  |
+  
 
 - Install ansible offline:
 

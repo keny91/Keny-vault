@@ -1,12 +1,6 @@
 #todo #jenkins 
 
 
-TEST 
-
-UNISNTALLING 
-MVN, JAVA (use packages)
-
-
 
 JENKINS REQUIRED AN INITIAL "INSTALLATION PASSWORD TO SET UP"
 
