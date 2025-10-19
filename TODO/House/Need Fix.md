@@ -7,6 +7,4 @@
 - Persiana esta regular.
 - Ordenar sobre-entrada
 
-
-- AMS 3D printer
 - 
