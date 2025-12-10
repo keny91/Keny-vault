@@ -1,0 +1,5 @@
+#VERSION #SERIALIZATION
+
+Products have to have:
+- RELEASE NOTES
+- RELEASE VERSION

@@ -5,8 +5,6 @@ Jenkins - packag pluggins as "files/jenkins/plugins/jenkins-plugins*.tar.gz"
 
 
 
-LAST
-
 
 
 
@@ -14,7 +12,6 @@ LAST
 	- create user:group
 	- Install ansible
 	- Install docker and k8s
-	- Validate packages have been installed
 
 - Ansible y kubernetes. 
   Determinar como guarlo las librerias. /cots/Linux/Distro/LIBxxXXX.xx
