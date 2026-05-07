@@ -1,4 +1,4 @@
-#databases #acid
+ #databases #acid
 
 
 #### ACID (Atomicity, Consistency, Isolation, Durability)
