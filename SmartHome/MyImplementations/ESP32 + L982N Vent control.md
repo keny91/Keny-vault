@@ -1,14 +1,14 @@
 #ESP32 #L982N #SmartHome
 
 
-![[Pasted image 20260507163323.png]]
+![[L982N_1.png]]
 
 
 
-![[Pasted image 20260507163347.png]]
+![[L982N_2.png]]
 
 
-![[Pasted image 20260507163527.png]]
+![[ESP32.png]]
 
 
 
